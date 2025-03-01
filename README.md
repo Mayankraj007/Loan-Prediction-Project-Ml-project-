@@ -1,4 +1,5 @@
-# Loan-Prediction-Project-Ml-project-
+# Loan Prediction Project: A Machine Learning Approach
+
 The Loan Prediction Project aims to automate the process of determining a customer’s loan eligibility based on a set of provided attributes. Using two datasets — a training set (train_ctrUa4K.csv) and a testing set (test_lAUu6dG.csv) — the project builds a predictive model to classify loan approvals (Loan_Status). The training dataset contains 12 independent features, including both categorical (Gender, Education, Property Area) and numerical variables (Applicant Income, Loan Amount, Credit History), with the target variable indicating loan approval status.
 The goal was to use this data to build a model that can predict loan approvals for new applicants.
 
